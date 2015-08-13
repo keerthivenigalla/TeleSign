@@ -1,0 +1,113 @@
+Movies in theater count:16
+<<<<<<< Data item(1) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt2278388
+ID:2278388
+Photo Cnt:0
+Validating....
+Actual PhotoCount:44 vs 0 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(2) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt1647668
+ID:1647668
+Photo Cnt:74
+Validating....
+Actual PhotoCount:100 vs 74 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(3) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt1430612
+ID:1430612
+Photo Cnt:68
+Validating....
+Actual PhotoCount:29 vs 68 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(4) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt2528814
+ID:2528814
+Photo Cnt:66
+Validating....
+Actual PhotoCount:18 vs 66 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(5) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt2004420
+ID:2004420
+Photo Cnt:72
+Validating....
+Actual PhotoCount:76 vs 72 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(6) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt1929263
+ID:1929263
+Photo Cnt:67
+Validating....
+Actual PhotoCount:23 vs 67 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(7) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt3014666
+ID:3014666
+Photo Cnt:67
+Validating....
+Actual PhotoCount:8 vs 67 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(8) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt2458776
+ID:2458776
+Photo Cnt:53
+Validating....
+Actual PhotoCount:19 vs 53 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(9) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt0884726
+ID:0884726
+Photo Cnt:72
+Validating....
+Actual PhotoCount:38 vs 72 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(10) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt1843866
+ID:1843866
+Photo Cnt:72
+Validating....
+Actual PhotoCount:189 vs 72 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(11) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt1872181
+ID:1872181
+Photo Cnt:78
+Validating....
+Actual PhotoCount:41 vs 78 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(12) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt2357291
+ID:2357291
+Photo Cnt:68
+Validating....
+Actual PhotoCount:40 vs 68 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(13) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt2203939
+ID:2203939
+Photo Cnt:67
+Validating....
+Actual PhotoCount:28 vs 67 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(14) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt2223990
+ID:2223990
+Photo Cnt:68
+Validating....
+Actual PhotoCount:29 vs 68 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(15) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt1840309
+ID:1840309
+Photo Cnt:69
+Validating....
+Actual PhotoCount:162 vs 69 [FAIL]
+---------------------------------------------
+<<<<<<< Data item(16) from JSON >>>>>>>>
+Movie URL:http://www.imdb.com/title/tt0831387
+ID:0831387
+Photo Cnt:78
+Validating....
+Actual PhotoCount:70 vs 78 [FAIL]
+---------------------------------------------
